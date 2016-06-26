@@ -41,3 +41,8 @@ hospitals when deciding the rankings.
 simulation of Lexical Scoping with the help of two functions, one that is used to create and manipulate the matrix,another one to use lexical scoping in order to access the matrix.
 
 ### check the cachematrix.R for solution.
+
+## Other Misc examples
+
+pollutantmean.R that uses hw1_data.csv file
+
