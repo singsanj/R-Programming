@@ -36,3 +36,8 @@ the state name. Hospitals that do not have data on a particular outcome should b
 hospitals when deciding the rankings.
 
 ### check the rankall.R for solution
+
+## Problem 4
+simulation of Lexical Scoping with the help of two functions, one that is used to create and manipulate the matrix,another one to use lexical scoping in order to access the matrix.
+
+### check the cachematrix.R for solution.
