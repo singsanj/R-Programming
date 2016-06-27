@@ -1,7 +1,7 @@
 ## best.R
 ## Function reads through the csv file into data variable, since we know all the data in my csv is of type "character"
 ## it saves some analyhsis time for R if specified upfront, hence the colClasses are defined. Similarly
-## na.strings in R is used to mention the columns need to be treated as "NA", we want to account for all hence the 
+## na.strings in R is used to set the columns that represent the missing values, we want to account for all hence the 
 ## value there is "Not Available"
 best <- function(state, outcome) {
         
